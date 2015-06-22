@@ -28,7 +28,7 @@ t.Body.scp = "public_profile,email,creator";      // Scope of access this; IS NO
 // Convert C# Object to Signed JWT; you can now persist this string and use as you need for authorization.
 var _JSONtoken = JWT.ConstructWebToken(t, secret);
 ```
-<h3>Read a WebToken<h3>
+<h3>Read a WebToken</h3>
 <p>This will only read web tokens created with this library</p>
 ```
 // the way your application retrieves a JWT String

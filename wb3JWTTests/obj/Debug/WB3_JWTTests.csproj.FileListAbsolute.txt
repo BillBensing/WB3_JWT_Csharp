@@ -1,0 +1,7 @@
+C:\Users\BIll\Documents\Visual Studio 2013\Projects\wb3JWT\wb3JWTTests\bin\Debug\wb3JWTTests.dll
+C:\Users\BIll\Documents\Visual Studio 2013\Projects\wb3JWT\wb3JWTTests\bin\Debug\wb3JWTTests.pdb
+C:\Users\BIll\Documents\Visual Studio 2013\Projects\wb3JWT\wb3JWTTests\bin\Debug\wb3JWT.dll
+C:\Users\BIll\Documents\Visual Studio 2013\Projects\wb3JWT\wb3JWTTests\bin\Debug\wb3JWT.pdb
+C:\Users\BIll\Documents\Visual Studio 2013\Projects\wb3JWT\wb3JWTTests\obj\Debug\WB3_JWTTests.csprojResolveAssemblyReference.cache
+C:\Users\BIll\Documents\Visual Studio 2013\Projects\wb3JWT\wb3JWTTests\obj\Debug\wb3JWTTests.dll
+C:\Users\BIll\Documents\Visual Studio 2013\Projects\wb3JWT\wb3JWTTests\obj\Debug\wb3JWTTests.pdb

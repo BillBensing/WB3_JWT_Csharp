@@ -1,0 +1,4 @@
+C:\Users\BIll\Documents\Visual Studio 2013\Projects\wb3JWT\wb3JWT\bin\Debug\wb3JWT.dll
+C:\Users\BIll\Documents\Visual Studio 2013\Projects\wb3JWT\wb3JWT\bin\Debug\wb3JWT.pdb
+C:\Users\BIll\Documents\Visual Studio 2013\Projects\wb3JWT\wb3JWT\obj\Debug\wb3JWT.dll
+C:\Users\BIll\Documents\Visual Studio 2013\Projects\wb3JWT\wb3JWT\obj\Debug\wb3JWT.pdb
